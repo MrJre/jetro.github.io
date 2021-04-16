@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hello world.
+Welcome to my new blog. Not much here yet. Coming soon.
