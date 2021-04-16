@@ -33,7 +33,6 @@ github_username:  MrJre
 theme: minima
 plugins:
   - jekyll-feed
-source: ./source
 show_dir_listing: false
 
 # Exclude from processing.
